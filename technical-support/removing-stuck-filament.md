@@ -8,11 +8,11 @@ If your filament is loaded in between the extruder gear and you can’t remove i
 
 ![](https://support.printm3d.com/scripts/file.php?view=Y&file=c92cf07cadbf8f5dd822555c3031536c)
 
-3. After you have located the gear us a phillips screwdriver to remove the cover.
+3. After you have located the gear use a phillips screwdriver to remove the cover.
 
 ![](https://support.printm3d.com/scripts/file.php?view=Y&file=7d1c43265651f11411f3210a41be77ee)
 
-4. Next us a pair of cutters to cut the filament right underneath the gear \(be careful not to cut the small black tube poking out of the nozzle.
+4. Next use a pair of cutters to cut the filament right underneath the gear \(be careful not to cut the small black tube poking out of the nozzle.
 
 ![](https://support.printm3d.com/scripts/file.php?view=Y&file=c2335421800fb1d91c4f2fd9e311d546)
 
